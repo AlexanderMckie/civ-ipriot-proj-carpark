@@ -1,3 +1,8 @@
+This is a TAFE assignment where we had to simulate a communication network for a carpark where there are entry and exit points all connected to a main server.
+It runs on a local MQTT network and runs across a few separate Python programs in the smarpark folder.
+
+
+
 # IPRIoT Project: Simulated Workplace Scenario
 
 A simulated workplace environment where students must demonstrate OO skills by interpreting and interacting with modern software requirements.
